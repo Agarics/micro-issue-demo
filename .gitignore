@@ -1,0 +1,21 @@
+.history
+node_modules
+.DS_Store
+dist
+dist.zip
+
+*.local
+# local env files
+.env.local
+.env.*.local
+.eslintcache
+
+logs
+*.log
+vite.config.mts.*
+vite.config.mjs.*
+vite.config.js.*
+vite.config.ts.*
+
+# Editor directories and files
+.idea
